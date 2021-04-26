@@ -1,7 +1,3 @@
-# write a python program to solve (x+y)*(x+y)
-def data(x,y):
-	return (x+y)*(x+y)
-print(data(20,10))
 
 """ write a python program to convert all unit of time into seconds
 """
