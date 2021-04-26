@@ -27,3 +27,4 @@ elif calc == "t":
 elif calc == "d":
 	answer = u*t + 0.5*(a)*(t**2)
 	print(answer)
+
